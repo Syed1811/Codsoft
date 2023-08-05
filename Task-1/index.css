@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #00edaa;
+}
+
+.main{
+    text-align: center;
+    margin: 10%;
+
+}
+.main .name{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 55px;
+}
+
+.main .intro{
+    font-size: medium;
+    font-weight: 100;
+    text-align: center;
+}
+
+.about {
+    margin-top: 80px;
+    width: 100%;
+    padding: 2% 2%;
+    background-color: #0cdb85;
+    box-shadow: 12px 10px 15px #87fb9b;
+
+}
+
+.heading{
+    font-size: 45px;
+    color: white;
+}
+
+.aboutinfo{
+    font-size: large;
+    font-weight: 100;
+    text-align: left;
+}
+
+.wiki{
+    text-decoration: none;
+    color: red;
+}
